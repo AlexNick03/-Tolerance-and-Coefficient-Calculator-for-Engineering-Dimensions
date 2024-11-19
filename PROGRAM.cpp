@@ -10,7 +10,7 @@ int dimensiune;
 
 int main() {
 
-    // Declarațiile variabilelo
+    // Declarațiile variabilelor
      do {
          std::cout<<"\nIntroduceti dimensiunea  0 daca vreti sa opriti programul "<<std::endl;
     std::cout << "\nIntroduceti o dimensiune:  ";
